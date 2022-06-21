@@ -1047,7 +1047,7 @@
                 "aws/aws-sdk-php": "^3.198.1",
                 "doctrine/dbal": "^2.13.3|^3.1.4",
                 "filp/whoops": "^2.14.3",
-                "guzzlehttp/guzzle": "^6.5.5|^7.0.1",
+                "guzzlehttp/guzzle": "^7.4.0",
                 "league/flysystem-cached-adapter": "^1.0",
                 "mockery/mockery": "^1.4.4",
                 "orchestra/testbench-core": "^6.27",
